@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as an "one-man company" seeking to transtition to a Backend Engineer role in Node.js.
 - 🌱 I’m currently learning Node.js, React, React Native and DevOps.
 - 👯 I’m looking to collaborate on impactful, real-world projects.
-- 📫 How to reach me: filiperlima.frl@gmail.com.
+- 📫 You can reach me here: filiperlima.frl@gmail.com.
